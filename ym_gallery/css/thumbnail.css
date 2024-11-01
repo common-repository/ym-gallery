@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+.ym_mainP{
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+
+.ym_mainP img{
+	max-width: 100%;
+}
+
+.ym_thumP{
+	overflow: hidden;
+	margin: 0;
+}
+
+.ym_thumP li{
+	float: left;
+	cursor: pointer;
+	width: 31%;
+	margin: 1%;
+}
+.ym_thumP li img{
+	max-width: 100%;
+}

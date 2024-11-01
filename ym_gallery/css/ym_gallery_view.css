@@ -1,0 +1,28 @@
+.ym_gallery{
+	overflow: hidden;
+	list-style: none;
+	width: 100%;
+	margin: 0;
+	
+}
+.ym_gallery li{
+	float: left;
+	margin: 2px;
+	width: 49%;
+}
+
+.ym_gallery li img{
+	max-width: 100%;
+}
+
+.ym_fancy{
+	overflow: hidden;
+	list-style: none;
+	width: 100%;
+	margin: 0;
+}
+
+.ym_fancy li{
+	float: left;
+	margin: 2px;
+}
